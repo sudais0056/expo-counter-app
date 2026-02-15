@@ -35,7 +35,6 @@ counter-app/
 │ └── index.tsx # Main screen (Home route)
 │
 ├── assets/
-    └── screenshots/
 │
 ├── package.json # Dependencies & scripts
 ├── tsconfig.json # TypeScript configuration
