@@ -1,50 +1,99 @@
-# Welcome to your Expo app 👋
+# 📱 Expo Counter App
 
-This is an [Expo](https://expo.dev) project created with [`create-expo-app`](https://www.npmjs.com/package/create-expo-app).
+A simple and clean Counter Application built using **React Native**, **Expo Router**, and **TypeScript**.
 
-## Get started
+This project demonstrates the fundamentals of state management, functional components, and mobile UI design using modern Expo architecture.
 
-1. Install dependencies
+---
 
-   ```bash
-   npm install
-   ```
+## 🚀 Features
 
-2. Start the app
+- ➕ Increase counter
+- ➖ Decrease counter
+- 🔄 Reset counter
+- 🎨 Clean and responsive UI
+- 🧠 Built with React Hooks (useState)
+- 📦 Structured using Expo Router
 
-   ```bash
-   npx expo start
-   ```
+---
 
-In the output, you'll find options to open the app in a
+## 🛠 Tech Stack
 
-- [development build](https://docs.expo.dev/develop/development-builds/introduction/)
-- [Android emulator](https://docs.expo.dev/workflow/android-studio-emulator/)
-- [iOS simulator](https://docs.expo.dev/workflow/ios-simulator/)
-- [Expo Go](https://expo.dev/go), a limited sandbox for trying out app development with Expo
+- React Native
+- Expo (Latest SDK)
+- Expo Router (File-based routing)
+- TypeScript
+- VS Code
 
-You can start developing by editing the files inside the **app** directory. This project uses [file-based routing](https://docs.expo.dev/router/introduction).
+---
 
-## Get a fresh project
+## 📂 Project Structure
 
-When you're ready, run:
+counter-app/
+│
+├── app/
+│ └── index.tsx # Main screen (Home route)
+│
+├── assets/
+    └── screenshots/
+│
+├── package.json # Dependencies & scripts
+├── tsconfig.json # TypeScript configuration
+└── README.md
+
+---
+
+## 🧠 Concepts Covered
+
+- Functional Components
+- useState Hook
+- Event Handling
+- Styling with StyleSheet
+- Flexbox Layout
+- TypeScript typing in React Native
+- Basic Git workflow
+
+---
+
+## ▶️ Getting Started
+
+### 1️⃣ Clone the Repository
 
 ```bash
-npm run reset-project
-```
+git clone https://github.com/YOUR_USERNAME/expo-counter-app.git
 
-This command will move the starter code to the **app-example** directory and create a blank **app** directory where you can start developing.
+### 2️⃣ Navigate into Project
+cd expo-counter-app
 
-## Learn more
+### 3️⃣ Install Dependencies
+npm install
 
-To learn more about developing your project with Expo, look at the following resources:
+### 4️⃣ Start Development Server
 
-- [Expo documentation](https://docs.expo.dev/): Learn fundamentals, or go into advanced topics with our [guides](https://docs.expo.dev/guides).
-- [Learn Expo tutorial](https://docs.expo.dev/tutorial/introduction/): Follow a step-by-step tutorial where you'll create a project that runs on Android, iOS, and the web.
+npx expo start
+Scan the QR code using Expo Go on your mobile device.
 
-## Join the community
+## 📌 Future Improvements
 
-Join our community of developers creating universal apps.
+   - Add multi-screen navigation
+   - Improve UI design
+   - Add dark mode support
+   - Add animations
+   - Convert into reusable component structure
+   
+   ## 👨‍💻 Author
 
-- [Expo on GitHub](https://github.com/expo/expo): View our open source platform and contribute.
-- [Discord community](https://chat.expo.dev): Chat with Expo users and ask questions.
+Muhammad Sudais Khan
+
+
+⭐ If you like this project
+
+Give it a star on GitHub ⭐
+
+
+```md
+## 📸 Screenshots
+
+### Home Screen
+
+![Counter App](assets/screenshots/homepage.jpg)
