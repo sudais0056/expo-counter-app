@@ -99,5 +99,5 @@ Muhammad Sudais Khan
 
 ### Home Screen
 
-![Counter App](assets/screenshots/homepage.jpg)
+![counter-app](assets/screens/homepage.jpg)
 
