@@ -103,4 +103,8 @@ Muhammad Sudais Khan
 
 ### Home Screen
 
-![counter-app](https://raw.githubusercontent.com/sudais0056/expo-counter-app/main/assets/screens/homepage.jpg)
+## 📸 Screenshots
+
+### Home Screen
+
+<img src="https://raw.githubusercontent.com/sudais0056/expo-counter-app/main/assets/screens/homepage.jpg" width="300"/>
