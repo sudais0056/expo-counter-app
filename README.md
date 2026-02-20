@@ -107,4 +107,4 @@ Muhammad Sudais Khan
 
 ### Home Screen
 
-<img src="https://raw.githubusercontent.com/sudais0056/expo-counter-app/main/assets/screens/homepage.jpg" width="300"/>
+<img src="https://raw.githubusercontent.com/sudais0056/expo-counter-app/main/assets/screens/homepage.jpeg" width="300"/>
