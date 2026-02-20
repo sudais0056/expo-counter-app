@@ -99,5 +99,4 @@ Muhammad Sudais Khan
 
 ### Home Screen
 
-![counter-app](assets/screens/homepage.jpg)
-![counter-app](https://github.com/sudais0056/expo-counter-app/blob/main/assets/screens/homepage.jpg)
+![counter-app](https://raw.githubusercontent.com/sudais0056/expo-counter-app/main/assets/screens/homepage.jpg)
