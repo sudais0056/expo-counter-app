@@ -13,7 +13,6 @@ This project demonstrates the fundamentals of state management, functional compo
 - 🔄 Reset counter
 - 🎨 Clean and responsive UI
 - 🧠 Built with React Hooks (useState)
-- 📦 Structured using Expo Router
 
 ---
 
@@ -21,7 +20,7 @@ This project demonstrates the fundamentals of state management, functional compo
 
 - React Native
 - Expo (Latest SDK)
-- Expo Router (File-based routing)
+- Expo Router
 - TypeScript
 - VS Code
 
@@ -29,16 +28,19 @@ This project demonstrates the fundamentals of state management, functional compo
 
 ## 📂 Project Structure
 
+
 counter-app/
 │
 ├── app/
-│ └── index.tsx # Main screen (Home route)
+│ └── index.tsx
 │
 ├── assets/
+│ └── screenshots/
 │
-├── package.json # Dependencies & scripts
-├── tsconfig.json # TypeScript configuration
+├── package.json
+├── tsconfig.json
 └── README.md
+
 
 ---
 
@@ -61,38 +63,41 @@ counter-app/
 ```bash
 git clone https://github.com/YOUR_USERNAME/expo-counter-app.git
 
-### 2️⃣ Navigate into Project
+2️⃣ Navigate into Project
+
 cd expo-counter-app
 
-### 3️⃣ Install Dependencies
+3️⃣ Install Dependencies
+
 npm install
 
-### 4️⃣ Start Development Server
+4️⃣ Start Development Server
 
 npx expo start
 Scan the QR code using Expo Go on your mobile device.
 
-## 📌 Future Improvements
 
-   - Add multi-screen navigation
-   - Improve UI design
-   - Add dark mode support
-   - Add animations
-   - Convert into reusable component structure
-   
-   ## 👨‍💻 Author
+📌 Future Improvements
 
+Add multi-screen navigation
+
+Improve UI design
+
+Add dark mode support
+
+Add animations
+
+Convert into reusable component structure
+
+
+👨‍💻 Author
 Muhammad Sudais Khan
 
+---
 
-⭐ If you like this project
-
-Give it a star on GitHub ⭐
-
-
-```md
 ## 📸 Screenshots
 
 ### Home Screen
 
 ![Counter App](assets/screenshots/homepage.jpg)
+
