@@ -35,7 +35,7 @@ counter-app/
 │ └── index.tsx
 │
 ├── assets/
-│ └── screenshots/
+│ └── screens/
 │
 ├── package.json
 ├── tsconfig.json
@@ -57,25 +57,29 @@ counter-app/
 ---
 
 ## ▶️ Getting Started
-
 ### 1️⃣ Clone the Repository
 
 ```bash
-git clone https://github.com/YOUR_USERNAME/expo-counter-app.git
+git clone https://github.com/sudais0056/expo-counter-app.git
+```
 
-2️⃣ Navigate into Project
+### 2️⃣ Navigate into Project
 
+```bash
 cd expo-counter-app
+```
 
-3️⃣ Install Dependencies
+### 3️⃣ Install Dependencies
 
+```bash
 npm install
+```
 
-4️⃣ Start Development Server
+### 4️⃣ Start Development Server
 
+```bash
 npx expo start
-Scan the QR code using Expo Go on your mobile device.
-
+```
 
 📌 Future Improvements
 
@@ -100,4 +104,3 @@ Muhammad Sudais Khan
 ### Home Screen
 
 ![counter-app](https://raw.githubusercontent.com/sudais0056/expo-counter-app/main/assets/screens/homepage.jpg)
-<img src="assets/screens/homepage.jpg" width="300"/>
